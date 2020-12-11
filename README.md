@@ -1,4 +1,5 @@
 # wpflutter
+Flutter + Wordpress API UI KIT
 
 A new Flutter project.
 
