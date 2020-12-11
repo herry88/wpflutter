@@ -4,7 +4,7 @@ Flutter + Wordpress API UI KIT
 ## belajarflutter.com
 ![BelajarFlutter](https://belajarflutter.com/wp-content/uploads/2020/08/BelajarFlutter-logo.png)
 
-[Link](https://belajarflutter.com/ "belajarflutter.com")
+[belajarflutter.com](https://belajarflutter.com/ "belajarflutter.com")
 
 
 ## Getting Started
