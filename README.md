@@ -1,7 +1,9 @@
 # wpflutter
 Flutter + Wordpress API UI KIT
 
-A new Flutter project.
+## belajarflutter.com
+![BelajarFlutter](https://belajarflutter.com/wp-content/uploads/2020/08/BelajarFlutter-logo.png)
+
 
 ## Getting Started
 
